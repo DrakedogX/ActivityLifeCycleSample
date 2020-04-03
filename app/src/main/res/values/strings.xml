@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">test1</string>
+    <string name="app_name">LifeCycleTestApp</string>
+    <string name="main_text">Detail go</string>
 </resources>

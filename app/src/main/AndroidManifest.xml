@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.juntest">
+    package="com.example.jojotest">
 
     <application
         android:allowBackup="true"
@@ -9,8 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".DetailActivity"></activity>
-        <activity android:name=".MainActivity">
+        <activity android:name="com.example.jojotest.DetailActivity" />
+        <activity android:name="com.example.jojotest.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
